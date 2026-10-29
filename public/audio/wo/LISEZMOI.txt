@@ -1,0 +1,7 @@
+Déposez ici les enregistrements wolof (format mp3), un par écran, avec EXACTEMENT ces noms :
+  screen1.mp3  inscription client
+  screen2.mp3  choix du métier
+  screen4.mp3  enregistrement vocal de la panne
+  screen6.mp3  inscription artisan
+  screen7.mp3  tableau des demandes de l'artisan
+Textes à lire : voir VOICE_GUIDES dans src/data/referentiel.js (à faire relire par un locuteur wolof).
